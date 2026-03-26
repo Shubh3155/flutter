@@ -1,16 +1,16 @@
-# official_one
+# Flutter Glassmorphism UI
 
-A new Flutter project.
+Modern Flutter UI design using glassmorphism effect.
 
-## Getting Started
+## ✨ Features
+- Clean UI
+- Gradient background
+- Glass effect cards
+- Responsive design
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+(Add your Canva images here)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tech Stack
+- Flutter
+- Dart
